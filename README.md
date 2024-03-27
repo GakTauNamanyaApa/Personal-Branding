@@ -12,7 +12,7 @@
 
     <!-- kepala -->
 <header>
-    <p><b>Website Yang Pernah Saya Buat</b></p>
+    <p><b>Website Yang Pernah Saya Buat :)</b></p>
 </header>
     <!-- kepala end -->
 
